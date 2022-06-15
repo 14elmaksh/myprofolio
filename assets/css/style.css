@@ -1,0 +1,22 @@
+
+.box-section-blue  {
+    background-color:navajowhite;
+}
+
+.box-section-blue div img {
+   max-width: 200px;
+   height: auto;
+}
+
+.box-section-blue img {
+    max-width: 200px;
+    height: auto;
+ }
+
+ header {
+     background-color: khaki;
+ }
+ header h2 {
+     font-weight: 300;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
